@@ -52,13 +52,7 @@ To run the Disease Prediction and Medical Recommendation System:
 4. **Access the web interface in your browser at**
    ```bash
    http://localhost:5000
-
-## Team Members
-
-- Tanmay Pramanick - A20541164
-- Kunal Rajput - A20540912
-- Soham Sonar - A20541266
-
+   
 ## Project Files Overview
 
 - `main.py`: Entry point for the Flask web application.

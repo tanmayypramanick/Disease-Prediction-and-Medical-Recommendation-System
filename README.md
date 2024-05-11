@@ -28,7 +28,10 @@ The project files are organized into the following directories:
 - `bgCover.jpg`, `img.png` : Images utilized in the frontend webpage.
 
 ### 5. screenshots
-- Includes screenshots of the project.
+
+![Screenshot1](https://github.com/tanmayypramanick/Disease-Prediction-and-Medical-Recommendation-System/blob/main/screenshots/ss1.jpg)
+![Screenshot2](https://github.com/tanmayypramanick/Disease-Prediction-and-Medical-Recommendation-System/blob/main/screenshots/ss2.jpg)
+![Screenshot3](https://github.com/tanmayypramanick/Disease-Prediction-and-Medical-Recommendation-System/blob/main/screenshots/ss3.jpg)
 
 
 ## How to Run the Project
